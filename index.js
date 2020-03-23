@@ -1,3 +1,3 @@
 const newHeader = document.createElement('h1');
 newHeader.id = 'victory'
-newHeader.innerHTML = 'Sheila is the champion'
+newHeader.innerHTML = 'Sheila is the champion';
