@@ -1,1 +1,1 @@
-const newHeader = document.createElement('h1#victory');
+const newHeader = document.createElement('h1');
