@@ -1,1 +1,1 @@
-let newHeader = document.getElementById('h1#victory')
+let newHeader = document.getElementById('h1#victory');
